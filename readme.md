@@ -1,9 +1,3 @@
-# Welcome!
-
-Congratulations on making it this far in the interview process!
-
-Your next step should you choose to accept it is to build a fun web-api for managing a pet shop.
-
 # Pet Shop
 
 Let's pretend you've decided to open up a pet shop and you need to keep track of your sales. You want to know information about your customers as well as what pets they purchased.
